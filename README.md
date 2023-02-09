@@ -4,13 +4,13 @@
 
 
 <div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/laroccafe%22%3E
+  <a href="https://www.linkedin.com/in/facuhernandez
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 <div id="badges"  align="center">
-  <img src="https://komarev.com/ghpvc/?username=federto&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=facuhernandez99&style=flat-square&color=blue" alt=""/>
 
 ---
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=federto&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=facuhernandez99&theme=prussian&hide_border=true)](https://git.io/streak-stats)
